@@ -11,6 +11,12 @@ fields:
   year:
     label: Year
     type:  text
+  role:
+    label: Role
+    type:  text
+  description:
+    label: Description
+    type:  text
   text:
     label: Text
     type:  textarea

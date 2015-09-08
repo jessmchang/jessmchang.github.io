@@ -1,0 +1,87 @@
+@font-face {
+    font-family: NeueHaasUnica;
+    src: url(../fonts/NeueHaasUnicaPro.otf);
+}
+
+body {
+  font-family: 'NeueHaasUnica';
+  letter-spacing:0.05rem;
+  font-size: 1rem;
+}
+header {
+  margin-top:1rem;
+  margin-bottom:1rem;
+}
+
+main {
+  margin-top:4rem;
+  margin-bottom: 4rem;
+}
+
+main.grid-nospace {
+  margin-top:0;
+}
+
+h1, h2, h3, h4 {
+  /*font-family: 'NeueHaasUnica';*/
+  font-weight: 400;
+  /*margin: 0;*/
+  /*padding: 0;*/
+  font-size: 1rem;
+}
+
+figure {
+  margin: 0;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+a {
+  color: #9b9b9b;
+}
+
+a:hover {
+  color: #222;
+}
+
+li {
+  list-style-type: none;
+}
+
+ul {
+  margin-left: 0;
+}
+
+#header-nav {
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+#header-nav li {
+  display: inline-block;
+  margin-right: 2rem;
+}
+
+#splash {
+  background: url('/content/home/ClearBeach.jpg') bottom center;
+  background-size: cover;
+}
+
+#splash-content {
+  padding: 8rem 0;
+  margin-bottom: 4rem;
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+.teaser img:hover {
+  opacity: 0.5;
+}
+
+.nav-prev {
+  text-align: right;
+}
+
+

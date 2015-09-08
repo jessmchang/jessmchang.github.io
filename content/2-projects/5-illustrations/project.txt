@@ -1,0 +1,114 @@
+Title: Illustrations
+
+----
+
+Year: 
+
+----
+
+Role: 
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+Web Banners
+<ul class="small-block-grid-2" data-clearing>
+
+	<li>
+  		(image: big_hack.png)
+	</li>
+	<li>
+  		(image: hack_cover.png)
+	</li>
+<li>
+  		(image: intro_frontend.png)
+	</li>
+	<li>
+  		(image: intro_hacking.png)
+	</li>
+
+<li>
+  		(image: swe.png)
+	</li>
+	<li>
+  		(image: gm.png)
+	</li>
+
+</ul>
+
+Miscellaneous
+
+
+<ul class="small-block-grid-2" data-clearing>
+
+	<li>
+  		(image: gun.png)
+	</li>
+	<li>
+  		(image: tint_invitation.png)
+	</li>
+<li>
+  		(image: site_illustrations.png)
+	</li>
+
+</ul>
+
+Shirt Designs
+
+Great Commissioners - Soccer Teams 
+(link: https://www.flickr.com/photos/winston-kim/ text: Group photos taken by Winston Kim)
+
+<ul class="small-block-grid-1" data-clearing>
+
+	<li>
+  		(image: great_commissioners.png)
+	</li>
+
+</ul>
+<ul class="small-block-grid-4" data-clearing>
+
+	<li>
+  		(image: gc_blue.jpg)
+	</li>
+<li>
+  		(image: gc_gold.jpg)
+	</li>
+<li>
+  		(image: gc_pink.jpg)
+	</li>
+<li>
+  		(image: gc_silver.jpg)
+	</li>
+
+</ul>
+
+Radiate - Volleyball Team
+
+<ul class="small-block-grid-2" data-clearing>
+
+	<li>
+  		(image: radiate.png)
+	</li>
+<li>
+  		(image: radiate.jpg)
+	</li>
+
+</ul>
+
+Pure Camaraderie Ice - Basketball Team
+
+<ul class="small-block-grid-1" data-clearing>
+
+	<li>
+  		(image: pc_ice_all.png)
+	</li>
+</ul>
+
+----
+
+Tags: 

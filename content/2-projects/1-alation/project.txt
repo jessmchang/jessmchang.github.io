@@ -1,0 +1,25 @@
+Title: Alation
+
+----
+
+Year: 2015
+
+----
+
+Tags: stuff
+
+----
+
+Text: 
+
+This past summer I joined Alation as a product design intern for 11 weeks. I worked with two full-time designers, and three other design interns on three to four projects, from bite-sized design issues to big, challenging, design problems. Projects included working on JIRA issues and doing high-quality assurance with engineers, generating research reports on best practices, improving features, and designing for new features. 
+
+I'd love to show you everything I worked on, but I'm unable to as my work is under NDA.
+
+----
+
+Role: 
+
+----
+
+Description: 

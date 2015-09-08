@@ -8,15 +8,16 @@
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
   <meta name="description" content="<?php echo $site->description()->html() ?>">
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
-
-  <?php echo css('assets/css/main.css') ?>
+  <?php echo css(array(
+    'assets/css/foundation.min.css',
+    'assets/css/normalize.css',
+    'assets/css/app.css',
+  )) ?>
 
 </head>
 <body>
 
   <header class="header cf" role="banner">
-    <a class="logo" href="<?php echo url() ?>">
-      <img src="<?php echo url('assets/images/logo.svg') ?>" alt="<?php echo $site->title()->html() ?>" />
-    </a>
-    <?php snippet('menu') ?>
+
+        <?php snippet('menu') ?></div>
   </header>

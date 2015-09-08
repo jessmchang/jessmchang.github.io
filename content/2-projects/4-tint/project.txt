@@ -1,0 +1,40 @@
+Title: Tint
+
+----
+
+Year: 2014
+
+----
+
+Role: 
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+View the product live (The design was eventually tweaked to fit the redesign): tintup.com/analytics/travelocity
+
+This summer I interned at Tint as a software engineer. While many of my friends interned at large tech companies, I wanted an experience that would allow me to contribute directly to the product and the code base, and create immediate and direct impact. I wanted to solve challenging design problems and learn the best practices for creating modular and scalable web applications. 
+
+##Analytics Dashboard
+
+The primary feature I worked on at Tint was a new analytics dashboard. It uses Backbone.js for the primary front-end framework, d3.js to visualize data, and a few other tools such as moment.js to calculate time ranges and keen.io to measure engagement analytics. The project was a mix of design, data, and engineering – three things I love. Here are a few pictures of sketches and mockups made during the ideation and implementation process:
+
+<ul class="small-block-grid-1" data-clearing>
+
+	<li>
+  		(image: analytics_doc.png)
+	</li>
+	<li>
+  		(image: analytics_process.png)
+	</li>
+
+</ul>
+
+----
+
+Tags: 

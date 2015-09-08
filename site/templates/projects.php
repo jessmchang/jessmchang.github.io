@@ -2,14 +2,16 @@
 
   <main class="main" role="main">
 
-    <div class="text">
-      <h1><?php echo $page->title()->html() ?></h1>
-      <?php echo $page->text()->kirbytext() ?>
-    </div>
+  	<div class="row">
+	    <!-- <div class="text medium-3 small-12 columns">
+	      <h1><?php echo $page->title()->html() ?></h1>
+	     </div>
+	     <div class="medium-9 small-12 columns">
+	      <?php echo $page->text()->kirbytext() ?>
+	    </div> -->
+	</div>
 
-    <hr>
-
-    <?php snippet('projects') ?>
+    <?php snippet('projects', array('limit' => $page->children()->count())) ?>
 
   </main>
 
