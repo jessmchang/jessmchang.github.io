@@ -1,5 +1,7 @@
 # Kirby .htaccess
 
+Header add Access-Control-Allow-Origin “jessmchang.com"
+
 # rewrite rules
 <IfModule mod_rewrite.c>
 
@@ -14,7 +16,7 @@ RewriteEngine on
 # If your homepage is http://yourdomain.com/mysite
 # Set the RewriteBase to:
 #
-# RewriteBase /mysite
+RewriteBase /
 
 # block text files in the content folder from being accessed directly
 RewriteRule ^content/(.*)\.(txt|md|mdown)$ error [R=301,L]
