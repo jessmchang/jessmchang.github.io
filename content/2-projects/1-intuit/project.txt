@@ -1,0 +1,47 @@
+Title: Intuit
+
+----
+
+Year: 2016
+
+----
+
+Role: Designer
+
+----
+
+Description: Awesome Agent Experience -- Payments
+
+----
+
+Text: 
+
+###[See Case Study](https://medium.com/@jchangsta/payments-caacbce6bc13#.82ut5qqmb)
+
+
+This summer I joined Intuit as an Interaction Design Intern. During my 10 week internship I worked closely with the Enterprise Business Solutions XD team on an internal tool that allows sales agents to sell products such as Quickbooks Online (QBO) and Payments to our customers. This required me to also talk to the sales team to understand their needs, understand care agents, and take marketing into consideration. There are hundreds of sales agents across the 11 Intuit campuses around the world.
+
+To give some context, the EBS team works on tools to help the company be the most efficient it could possibly be. Recently a two year effort called the Awesome Agent Experience (AAE) has been spearheaded to rethink and redesign the sales agent’s experience since currently, sales agents are using really outdated software. One project out of AAE had already been completed, a 3 step process of sales agents selling only QBO. My specific project was to think about how to sell Payments in the same way that we sell QBO. 
+
+(image: intuit_1.png)
+
+In the ideal world, the sales agent should quickly be able to 1. identify what the customer wants, 2. prepare items for payment, 3. checkout and apply for approval.
+
+The experience should be painless, just like purchasing and checking out an item online. The less time it takes to check out an item through a sales agent perspective, the more customers that can be reached, which drives more conversions. That being said, here were my high-level goals for a new flow:
+
+<ul><li>Streamline checkout process for sales agents who are selling QBO and payments services. With a faster and more efficient selling process, the less confusion there is, increasing the number of customers reached, and increasing conversions. (early thoughts for potential solutions: parallel flow, less steps, simplify catalog)</li>
+<li>
+Automate processes on the back-end whenever possible.
+</li>
+<li>
+Provide a solution that scales to services and products beyond Payments (Revel, Payroll, etc…)
+</li>
+</ul>
+
+Through many iterations and research sessions, I designed a flow that directly mirrors the sales agent's journey. Instead of designing a flow similar to Amazon's checkout process, the completion of ordering a QuickBooks Online product would prompt the sales agent ask the customer if he/she is interested in an add-on (Payments) via a pop-up. This linear approach not only benefits the business but is also a lot more friendly to the customer, as the customer does not want to be bombarded with more than one product at a time.
+
+(image: intuit_2.png)
+
+----
+
+Tags: 

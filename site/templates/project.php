@@ -1,9 +1,15 @@
 <?php snippet('header') ?>
 
-  <main class="main" role="main">
+  <main class="main animated fadeIn" role="main">
     <div class="row">
-      <div class="small-12 medium-4 columns">
-        <h1><?php echo $page->title()->html() ?></h1>
+      <div class="small-12 columns">
+        <a href="/">Back to Home</a>
+        <br/><br/>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-12 medium-6 columns">
+        <div class="project-title"><?php echo $page->title()->html() ?></div>
         <ul class="meta cf">
           <li><?php echo $page->year() ?></li>
           <!-- <li><b>Tags:</b> <?php echo $page->tags() ?></li> -->
@@ -11,7 +17,7 @@
           <li><?php echo $page->description() ?></li>
         </ul>
       </div>
-      <div class="medium-8 columns end">
+      <div class="project-body">
         <?php echo $page->text()->kirbytext() ?>
 
         <!--  <div>
@@ -23,20 +29,22 @@
         </div> -->
       </div>
     </div>
-    <div class="row">
+
+    <!--
+    <div class="row navigation">
       <nav class="nextprev cf" role="navigation">
-        <div class="small-4 columns nav-prev">
+        <div class="small-6 columns nav-prev">
           <?php if($prev = $page->prevVisible()): ?>
           <a class="prev" href="<?php echo $prev->url() ?>">&larr; previous</a>
           <?php endif ?>
         </div>
-        <div class="small-8 columns nav-next">
+        <div class="small-6 columns nav-next">
           <?php if($next = $page->nextVisible()): ?>
           <a class="next" href="<?php echo $next->url() ?>">next &rarr;</a>
           <?php endif ?>
         </div>
       </nav>
-    </div>
+    </div> -->
 
   </main>
 

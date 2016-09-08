@@ -4,6 +4,13 @@ Title: About
 
 Text: 
 
-Jessica is a digital product designer, and is currently a junior at UC Berkeley studying Cognitive Science and design innovation. She is fueled by the intricate stories behind tools and interfaces and has a love for grid systems and typography. In her spare time she illustrates and designs shirts, logos, and banners for her friends.
+<ul class="small-block-grid-2" data-clearing>
 
-Aside from academics, she is part of a design consulting team, ConsultYourCommunity, and captains an intramural basketball team (ball is life).
+	<li>
+  		(image: me_miami.jpg)
+	</li>
+</ul>
+
+Jessica is a digital product designer, and is currently a junior at UC Berkeley studying Cognitive Science and design innovation. She is a curious hobbyist and is very interested in the intersection of physical and digital ecologies. This past summer she interned at (link: http://intuit.com text: Intuit) and is currently doing research in HCI at the (link: http://www.hybrid-ecologies.org text: Hybrid Ecologies Lab). In the past she has had the pleasure of working with (link: http://bayesimpact.org text: Bayes Impact), (link: http://alation.com text: Alation), and (link: http://tintup.com text: Tint). She is also the VP of Marketing for her co-ed entrepeneurship fraternity (link: http://ucberkeleysep.com text: Sigma Eta Pi)
+
+Aside from design she has played basketball (on and off) for 12 years, and is a Lakers - turned - Warriors fan (sorry SoCal).

@@ -2,7 +2,7 @@
 
 <ul class="teaser cf row">
   <?php foreach(page('projects')->children()->visible()->limit($limit) as $project): ?>
-  <div class="small-12 medium-6 large-4 columns end">
+  <div class="project small-12 medium-6 large-4 columns end">
 
     <!-- <p><?php echo $project->text()->excerpt(80) ?> <a href="<?php echo $project->url() ?>">read&nbsp;more&nbsp;→</a></p> -->
     <?php if($image = $project->images()->sortBy('filename', 'asc')->first()): ?>
@@ -19,3 +19,4 @@
 
 
 </ul>
+

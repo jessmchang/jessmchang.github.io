@@ -1,0 +1,53 @@
+Title: Raven
+
+----
+
+Year: 
+
+----
+
+Role: 
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+### [Full Case Study](https://medium.com/@jchangsta/raven-a-bluetooth-vehicle-297676ff24e8#.h2adtyi9q)
+
+Hackster process page: https://www.hackster.io/jessmchang/raven-a-bluetooth-controlled-vehicle-b61ec4?ref=similar&ref_id=15115
+
+Much of my junior year fall semester was spent in the design lab learning how to use new tools and iterating on my designs for my Introduction to Prototyping and Fabrication class. It was the first semester this class was taught as part of the new design department (Jacobs Hall for Design Innovation). Prior to this class I had little to no experience with any of the tools we used, including laser cutters, 3d printers, Autodesk software, acryllic benders, soldering irons, Arduino, etcetc...The assignments preceding my final project were to build a working vehicle. My final project was to iterate on this vehicle and redesign it to  be aesthetically pleasing, functional, and wireless. Below is the final product. My new vehicle chassis is constructed with black mat board, and features two side curves. The edgy personality of the car inspired its name, Raven.
+
+(image: raven_1.jpg)
+
+(image: raven_acryllic_base.jpg)
+
+
+(image: raven_pong_wheel_2.jpg)
+
+
+Below you can see all the iterations and adjustments up close. Towards the end I designed two holes to be cut out of the shell--one hole for easy access to the on/off switch and another for the 9v battery barrel plug.
+
+
+(image: raven_shells_2.jpg)
+
+(image: raven_iterations.jpg)
+
+##Future refinements
+
+Still, my car could use some more work. I realized that mat board is not very sturdy and may not be the best material for a shell. In the future I would experiment with different materials to see what materials may work better. I can say that it was this class that instigated my interest in physical prototyping and HCI research which I am now doing at the Hybrid-Ecologies Lab with Professor Eric Paulos!
+
+##Final product and video
+
+<iframe width="1000" height="563" src="https://www.youtube.com/embed/o2_ULavztqg" frameborder="0" allowfullscreen></iframe>
+
+
+Want to see more? Here's my hackster page: https://www.hackster.io/jessmchang/raven-a-bluetooth-controlled-vehicle-b61ec4?ref=similar&ref_id=15115
+
+----
+
+Tags: 

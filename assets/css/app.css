@@ -3,10 +3,16 @@
     src: url(../fonts/NeueHaasUnicaPro.otf);
 }
 
+@font-face {
+    font-family: Apercu;
+    src: url(../fonts/Apercu.otf);
+}
+
 body {
   font-family: 'NeueHaasUnica';
   letter-spacing:0.05rem;
   font-size: 1rem;
+  color: #000;
 }
 header {
   margin-top:1rem;
@@ -20,18 +26,37 @@ main {
 
 main.grid-nospace {
   margin-top:0;
+   -moz-transition: opacity 4s; /* Firefox */
+    -webkit-transition: opacity 4s; /* Safari and Chrome */
+    -o-transition: opacity 4s; /* Opera */
+    transition: opacity 4s;
 }
 
-h1, h2, h3, h4 {
-  /*font-family: 'NeueHaasUnica';*/
+h1, h2 {
+  font-family: 'Helvetica Neue';
   font-weight: 400;
   /*margin: 0;*/
   /*padding: 0;*/
   font-size: 1rem;
 }
 
+h3 {
+  font-family: 'NeueHaasUnica';
+  font-size: 1.5rem;
+  padding-bottom:1rem;
+}
+
+.project-title, .default-title {
+  font-family: 'Helvetica Neue';
+}
+
 figure {
   margin: 0;
+}
+
+img, video, iframe {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 h1 {
@@ -39,7 +64,8 @@ h1 {
 }
 
 a {
-  color: #9b9b9b;
+  color: #6F7F8D;
+  border-bottom: 0.1rem solid;
 }
 
 a:hover {
@@ -48,6 +74,41 @@ a:hover {
 
 li {
   list-style-type: none;
+}
+
+@media screen and (max-width: 960px) {
+  .project-body p, .project-body ul, .project-body h1, .project-body h2, .project-body h3 {
+    padding-left: 10rem !important;
+    padding: 3rem 3rem 0rem 3rem;
+    font-size: 1.5rem;
+    text-align: left;
+  }
+  .project-title {
+    font-size: 1.5rem;
+    padding-left: 9rem;
+  }
+}
+
+
+@media screen and (max-width: 580px) {
+  .project-body p, .project-body ul, .project-body h1, .project-body h2, .project-body h3 {
+    padding-left:1rem !important;
+    padding: 3rem 2rem 0rem 3rem;
+    font-size: 1.5rem;
+    text-align: left;
+  }
+  .project-title {
+    font-size: 1.5rem;
+    padding-left: 0rem;
+  }
+}
+
+.project-body p, .project-body ul, .project-body h1, .project-body h2, .project-body h3, .colophon {
+  padding-left: 50%;
+}
+
+.project-body li {
+  list-style-type: disc;
 }
 
 ul {
@@ -67,13 +128,54 @@ ul {
 #splash {
   background: url('/content/home/ClearBeach.jpg') bottom center;
   background-size: cover;
+  background-position: 0% 50%;
 }
 
 #splash-content {
-  padding: 8rem 0;
-  margin-bottom: 4rem;
+  padding: 4rem 0;
+  /*margin-bottom: 2rem;*/
   font-weight: 900;
   font-size: 1.5rem;
+  line-height:2.75rem;
+
+}
+
+
+#intuit:hover:after {
+    background: url(../../content/2-projects/1-intuit/intuit_1.png) no-repeat 0 0; /* no need for qoutes */
+    display: block;
+    position: fixed;
+    z-index: 1;
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-size: 30%;
+}
+
+#bayes:hover:after {
+    background: url(../../content/home/Bayes.png) no-repeat 0 0;
+    display: block;
+    position: fixed;
+    z-index: 1;
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-size: 30%;
+}
+
+#alation:hover:after {
+    background: url(../../content/home/Alation.png) no-repeat 0 0;
+    display: block;
+    position: fixed;
+    z-index: 1;
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-size: 30%;
+}
+
+video {
+  max-width:100%;
 }
 
 .teaser img:hover {
@@ -84,4 +186,28 @@ ul {
   text-align: right;
 }
 
+.project.columns {
+  padding-bottom: 1rem;
+}
 
+.clearing-assembled img:hover {
+  cursor: pointer;
+}
+
+.navigation {
+  width: 100%;
+}
+
+.footer {
+  padding-top:5em;
+  padding-bottom:10em;
+}
+
+.main .footer {
+  display: none;
+}
+/*
+.colophon {
+  padding: 1rem;
+}
+*/

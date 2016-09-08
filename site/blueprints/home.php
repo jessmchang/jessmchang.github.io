@@ -14,3 +14,7 @@ fields:
     label: Text
     type:  textarea
     size:  large
+  footer:
+    label: Footer
+    type: textarea
+    size: large

@@ -1,0 +1,251 @@
+Title: Onboarding Project
+
+----
+
+Year: 
+
+----
+
+Role: 
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+To give some context to this project, the onboarding flow was a project I worked on with one other design intern in the summer of 2015 upon evaluating churn rates on our initial login and signup pages.
+
+## Problem
+Cause: Users are not obligated to use the product; customers are choosing other database products such as 0xDBE. We were noticing a high drop-off rate.
+Therefore: It's important to create a memorable and seamless first impression, and that begins with logging in and signing up.
+
+A few flaws in the current onboarding system:
+1. Login/signup screens are inconsistent
+2. Forgot password screen is a bare-boned page, is not secure, and looks unprofessional
+3. Current onboarding process offers no character and is not welcoming
+
+<ul class="clearing-thumbs small-block-grid-2" data-clearing>
+
+	<li>
+  		(image: original_login.png)
+	</li>
+	<li>
+  		(image: original_signup.png)
+	</li>
+
+
+</ul>
+
+## Goals:
+1. Create an onboarding process that is both welcoming and approachable for the user. 
+2. By creating a seamless flow, prevent users from dropping off and choosing to not use the platform. 
+3. Invoke a sense of security and trust beginning from Log-in and Sign-up.
+
+## Inspiration
+Eventbrite: consistent login/signup screens
+<ul class="clearing-thumbs small-block-grid-2" data-clearing>
+
+	<li>
+  		(image: alation-interviews-eventbrite-signup.png)
+	</li>
+	<li>
+  		(image: alation-interviews-eventbrite-login.png)
+	</li>
+
+
+</ul>
+
+TurboTax: "we want to get to know you"
+<ul class="clearing-thumbs small-block-grid-1" data-clearing>
+
+	<li>
+  		(image: alation-interviews-turbotax.png)
+	</li>
+</ul>
+Dropbox: simple yet professional
+<ul class="clearing-thumbs small-block-grid-1" data-clearing>
+
+	<li>
+  		(image: alation-interviews-dropbox.png)
+	</li>
+</ul>
+
+## Alternative Flows
+*Setting Password Later* -> *Standard* -> *Checklist* -> *Defaults first/one at a time*
+<ul class="clearing-thumbs small-block-grid-4" data-clearing>
+
+	<li>
+  		(image: alation-interviews-set_pw_later.png)
+	</li>
+<li>
+  		(image: alation-interviews-standard.png)
+	</li>
+<li>
+  		(image: alation-interviews-checklist.png)
+	</li>
+<li>
+  		(image: alation-interviews-one_at_a_time.png)
+	</li>
+</ul>
+
+*Setting Password Later*
+
+In this flow, the focus was to get invested in the product as quickly as possible. To do this, we asked for users to provide their email as soon as possible. In this flow, we also wanted to eliminate the confusion a user might face if they had set a password before confirming their email. Through this flow, there’s no confusion and no re-logging in once the email has been confirmed.
+
+Alternative Rationale: this option isn’t ideal because it seems unintuitive and confusing for a user to set up their password last. It also is a high barrier to signing up since you make confirming an email one of the early steps--this step is troublesome since it removes the user from Alation and could present potential for drop-off if users are unable to locate their email or forget to confirm their email.
+
+*Standard*
+
+This flow is most similar to the current flow and similar to other apps. On the first page of sign-up, users would enter their first name, last name, email, and password. Then they would confirm their email, re-login with their credentials, enter Alation and continue with setting details and the onboarding process. 
+
+Alternative Rationale: this option, while standard and tested, does not necessarily offer the most intuitive and ideal user experience since it forces users to enter sundry information which isn’t exciting at all.
+
+*Checklist*
+
+We came to think of this flow when we were thinking about what would happen if a user lost their place in the onboarding process or if a window accidentally closes. To combat this, in this flow a user would input all of their information and set their password, and once they submit, they’ll be taken to an “onboarding checklist” so they can see exactly what they’ve accomplished and what they still need to do in order to become an Alation user.
+
+Alternative Rationale: While this flow is extremely clear for the user, it’s also a bit unnecessary and makes the onboarding process longer than it needs to be. A checklist would be helpful if there were several steps a user needed to go through to become an Alation user, but in actuality, there aren’t that many steps to keep track of. 
+
+*Defaults first/ One at a time*
+
+In this flow, during the signup process, entering a user’s first/last name and email/password are two separate screens. The point of this is to break up the process to seem less intimidating and to offer more personality throughout the process. Once onboarding default settings are set up, users would ideally set their defaults and become invested in the product before dealing with dry matters like setting their email/password. 
+
+Rationale behind decisions (Why this solution in particular?)
+  * This flow allows Alation to have a voice and personality that makes a user feel comfortable. Introducing one thing at a time makes the process seem a lot easier and straightforward than asking for all of this information at once
+  * Setting default preferences can also be easily inserted into this flow. 
+  * This flow also provides consistency amongst the app since the flows for setting password and confirming email is similar for the signup screen and the forgot password screen
+
+
+
+## Mockups
+Various onboarding styles
+<ul class="clearing-thumbs small-block-grid-1" data-clearing>
+
+	<li>
+  		(image: alation-interviews-sketch-1.png)
+	</li>
+</ul>
+
+First hi-fidelity version
+<ul class="clearing-thumbs small-block-grid-1" data-clearing>
+<li>
+  		(image: alation-interviews-sketch-2.png)
+	</li>
+<li>
+</ul>
+
+Various form styles
+<ul class="clearing-thumbs small-block-grid-1" data-clearing>
+        <li>
+  		(image: alation-interviews-sketch-3.png)
+	</li>
+</ul>
+
+## Final Prototype
+
+Logging in
+<ul class="clearing-thumbs small-block-grid-3" data-clearing>
+
+	<li>
+  		(image: Log In 1.png)
+	</li>
+<li>
+  		(image: Log In 2.png)
+	</li>
+<li>
+  		(image: Log In 3.png)
+	</li>
+</ul>
+
+Resetting password
+<ul class="clearing-thumbs small-block-grid-6" data-clearing>
+
+	<li>
+  		(image: Reset 1.png)
+	</li>
+<li>
+  		(image: Reset 2.png)
+	</li>
+<li>
+  		(image: Reset 3.png)
+	</li>
+<li>
+  		(image: Reset 4.png)
+	</li>
+<li>
+  		(image: Reset 5.png)
+	</li>
+<li>
+  		(image: Reset 6.png)
+	</li>
+</ul>
+
+Signing up
+<ul class="clearing-thumbs small-block-grid-6" data-clearing>
+
+	<li>
+  		(image: Sign up 1.png)
+	</li>
+<li>
+  		(image: Sign up 2.png)
+	</li>
+<li>
+  		(image:  Sign up 3.png)
+	</li>
+<li>
+  		(image:  Sign up 4.png)
+	</li>
+<li>
+  		(image:  Sign up 5.png)
+	</li>
+<li>
+  		(image:  Sign up 6.png)
+	</li>
+</br>
+
+<li>
+  		(image: Sign up 7.png)
+	</li>
+<li>
+  		(image: Sign up 8.png)
+	</li>
+<li>
+  		(image:  Sign up 9.png)
+	</li>
+<li>
+  		(image:  Sign up 10.png)
+	</li>
+<li>
+  		(image:  Sign up 11.png)
+	</li>
+<li>
+  		(image:  Sign up 12.png)
+	</li>
+</ul>
+
+## Metrics
+Success Criteria 
+1. An increased amount of signups
+2. Overall lower dropoff/churn
+
+## Instrumentation
+Log the following events...
+1. number of signups
+  * success would be if this number increases
+2. time spent on each individual screen
+  * important to track to see if one screen is taking substantially longer than other screens relative to the content on the screen 
+3. number of failed login attempts
+ * if users are continuing to struggle through the login process that could mean that 1) it’s difficult for them to remember their password, which could indicate that our password creation criteria is not clear therefore making them forget their password easily or 2) users are confusing sign-up and log-in
+4. number of reset password links sent to email
+  * again, if there is an increase in the number of reset password links sent, this could suggest that users are struggling to remember their password
+5 number of clicks on the “resend” email button in the confirm email and reset password screens
+  * high numbers of this could indicate that our emails are getting lost in users’ inboxes or that it’s taking to long to send
+6. time elapsed between confirmation email being sent and user confirming email
+  * good to track to ensure that sign-up process is being optimized and email is not blocking the user from entering the dashboard
+
+----
+
+Tags: 

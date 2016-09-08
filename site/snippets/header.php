@@ -12,6 +12,7 @@
     'assets/css/foundation.min.css',
     'assets/css/normalize.css',
     'assets/css/app.css',
+    'assets/css/animate.css',
   )) ?>
 
 </head>
@@ -19,5 +20,5 @@
 
   <header class="header cf" role="banner">
 
-        <?php snippet('menu') ?></div>
+        <?php /* snippet('menu') */ ?></div>
   </header>

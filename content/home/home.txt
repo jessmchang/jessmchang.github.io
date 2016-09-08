@@ -4,9 +4,20 @@ Title: Home
 
 Description: 
 
-This is the online portfolio of Jessica Chang. Digital product designer currently a junior at <a href="http://berkeley.edu">UC Berkeley</a>
-This summer worked as a product design intern at <a href="http://www.alation.com">Alation</a>, and last year as a software engineer intern at <a href="http://tintup.com">Tint</a>. Looking for opportunities for Summer 2016.
+Jessica Chang <br/><br/>
+I'm a multidisciplinary designer, currently a senior at <a href="http://berkeley.edu">UC Berkeley</a> and undergrad researcher at the <a href="http://www.hybrid-ecologies.org">Hybrid-Ecologies Lab</a> exploring the intersection of physical devices and interactive systems. I've had the privilege of working as a designer at <a href="projects/intuit" id="intuit">Intuit</a>, <a href="projects/bayes-impact" id="bayes" data-top="0px" data-left="0px" >Bayes Impact</a> (YC S14),  <a href="projects/alation" id="alation">Alation</a> (a16z), <a href="projects/gradescope">Gradescope</a>, and as a software engineer intern at <a href="projects/tint">Tint</a>.
+<br/><br/>
+Other projects I've worked on:<br/>
+<a href="/projects/sigma-eta-pi">Sigma Eta Pi Marketing</a> <br/>
+<a href="/projects/raven">Raven, a bluetooth vehicle</a><br/>
+<a href="/projects/grafik">Misc Graphic pieces</a>
+<br/><br/>
+I also post tidbits of my research <a href="http://jessmchang.tumblr.com">here</a>, post some of the better shots <a href="http://vsco.co/jessmchang">here</a>, and sometimes obsess about design <a href="http://twitter.com/jchangsta">here</a>. Also a basketball player and converted Warriors fan.
 
 ----
 
 Text: 
+
+----
+
+Footer: Copyright © 2013–2016 Jessica Chang · jessmchang@gmail.com · @jchangsta

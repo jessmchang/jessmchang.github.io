@@ -1,7 +1,16 @@
 <?php snippet('header') ?>
 
-  <main class="grid-nospace main" role="main">
-  	<section id="splash">
+  <main class="grid-nospace main animated fadeIn" role="main">
+    <div class="row">
+      <div class="small-12 medium-4 columns"></div>
+      <div class="small-12 medium-8 columns">
+        <div id="splash-content" class="fadeIn">
+          <?php echo $page->description() ?>
+        </div>
+      </div>
+    </div>
+
+  	<!-- <section id="splash">
   		<div id="splash-content">
   			<div class="row">
   				<div class="small-12 columns">
@@ -9,19 +18,16 @@
   				</div>
   			</div>
   		</div>
-  	</section>
-  	<!-- <div class="row">
-  		<div class="small-12 medium-3 columns">
-  			<h1><?php echo $page->title()->html() ?></h1>
-  		</div>
-	    <div class="text small-12 medium-7 columns end">
-	      <?php echo $page->text()->kirbytext() ?>
-	    </div>
-	</div> -->
+  	</section> -->
 
 
-    <?php snippet('projects', array('limit' => '3')) ?>
+    <?php
+    /* snippet('projects', array('limit' => '3'))
+    */
+     ?>
 
+
+     <?php snippet('footer') ?>
   </main>
 
-<?php snippet('footer') ?>
+<?php /*snippet('footer') */?>
