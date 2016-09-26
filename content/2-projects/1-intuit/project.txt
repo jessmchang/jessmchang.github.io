@@ -10,13 +10,13 @@ Role: Designer
 
 ----
 
-Description: Awesome Agent Experience -- Payments
+Description: 
 
 ----
 
 Text: 
 
-###[See Case Study](https://medium.com/@jchangsta/payments-caacbce6bc13#.82ut5qqmb)
+###[Read more about the case study on Medium](https://medium.com/@jchangsta/payments-caacbce6bc13#.82ut5qqmb)
 
 
 This summer I joined Intuit as an Interaction Design Intern. During my 10 week internship I worked closely with the Enterprise Business Solutions XD team on an internal tool that allows sales agents to sell products such as Quickbooks Online (QBO) and Payments to our customers. This required me to also talk to the sales team to understand their needs, understand care agents, and take marketing into consideration. There are hundreds of sales agents across the 11 Intuit campuses around the world.

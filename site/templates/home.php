@@ -7,6 +7,8 @@
         <div id="splash-content" class="fadeIn">
           <?php echo $page->description() ?>
         </div>
+
+
       </div>
     </div>
 

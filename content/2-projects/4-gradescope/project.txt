@@ -12,7 +12,7 @@ Tags:
 
 Text: 
 
-###[See Case Study](https://medium.com/@jchangsta/gradescope-marketing-page-e101bdfd4921#.6gqvm0j3t)
+###[Read more about the case study on Medium](https://medium.com/@jchangsta/gradescope-marketing-page-e101bdfd4921#.6gqvm0j3t)
 
 I was tasked with visual challenges during my internship at Gradescope. A fairly new startup, we recognized the need to visually communicate Gradescope's product to educators. As such, we decided that our previous splash page was clunky, had too much unnecessary text, did not fit the brand, and we needed a new design to boost user conversion rate.
 

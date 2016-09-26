@@ -16,7 +16,7 @@ Description: Analytics Dashboard
 
 Text: 
 
-###[See Case Study](https://medium.com/@jchangsta/tint-cf06143000b6#.r8tmqwt02)
+###[Read more about the case study on Medium](https://medium.com/@jchangsta/tint-cf06143000b6#.r8tmqwt02)
 
 In the summer after my freshman year, I interned at Tint as a software engineer. While many of my friends interned at large tech companies, I wanted an experience that would allow me to contribute directly to the product and the code base, and create immediate and direct impact. I wanted to solve challenging design problems and learn best practices for creating modular and scalable web applications. 
 
