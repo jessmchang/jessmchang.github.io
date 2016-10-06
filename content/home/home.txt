@@ -5,12 +5,13 @@ Title: Home
 Description: 
 
 Jessica Chang <br/><br/>
-I'm a multidisciplinary designer, currently a senior at UC Berkeley and undergrad researcher at the Hybrid-Ecologies Lab exploring the intersection of physical devices and interactive systems. I've had the privilege of working as a designer at <a href="projects/intuit" id="intuit">Intuit</a>, <a href="projects/bayes-impact" id="bayes" data-top="0px" data-left="0px" >Bayes Impact</a> (YC S14),  <a href="projects/alation" id="alation">Alation</a> (a16z), <a href="projects/gradescope" id="gradescope">Gradescope</a>, and as a software engineer intern at <a id="tint" href="projects/tint">Tint</a>. <br/>
+I'm a multidisciplinary designgineer, currently a senior at UC Berkeley and undergrad researcher at the Hybrid-Ecologies Lab exploring the intersection of physical devices and interactive systems. I've had the privilege of working as a designer at <a href="projects/intuit" id="intuit">Intuit</a>, <a href="projects/bayes-impact" id="bayes" data-top="0px" data-left="0px" >Bayes Impact</a> (YC S14),  <a href="projects/alation" id="alation">Alation</a> (a16z), <a href="projects/gradescope" id="gradescope">Gradescope</a>, and as a software engineer intern at <a id="tint" href="projects/tint">Tint</a>. Upon graduation I will be a product designer at  <a href="http://samsara.com">Samsara</a>! <br/>
 <br/>
 Other projects I've worked on:<br/>
 <a id="sep" href="/projects/sigma-eta-pi">Sigma Eta Pi Marketing</a> <br/>
 <a id="raven" href="/projects/raven">Raven, a bluetooth vehicle</a><br/>
 <a id="jacobs" href="/projects/jacobs">Jacobs School for Design Innovation</a><br/>
+<a id="cubeio" href="/projects/cube-io">Cube.io, a bluetooth game controller</a><br/>
 <br/>
 I also post tidbits of my research <a href="http://jessmchang.tumblr.com">here</a>, post some of the better shots <a href="http://vsco.co/jessmchang">here</a>, and sometimes obsess about design <a href="http://twitter.com/jchangsta">here</a>. Also a basketball player and converted Warriors fan.
 

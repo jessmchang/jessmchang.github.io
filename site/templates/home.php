@@ -12,17 +12,6 @@
       </div>
     </div>
 
-  	<!-- <section id="splash">
-  		<div id="splash-content">
-  			<div class="row">
-  				<div class="small-12 columns">
-  				 	<?php echo $page->description() ?>
-  				</div>
-  			</div>
-  		</div>
-  	</section> -->
-
-
     <?php
     /* snippet('projects', array('limit' => '3'))
     */

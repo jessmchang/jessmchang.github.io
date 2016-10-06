@@ -1,0 +1,31 @@
+Title: Cube.io
+
+----
+
+Year: 2016
+
+----
+
+Role: 
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+Git repo:
+
+I am currently taking a grad-level interdisciplinary Mech E / design class called Interactive Device Design and my second project was to build a game controller for any game, open source or closed source. My teammates Jasper O'Leary, Isabel Yang, and I decided that we'd control the closed-source game Kyubi. 
+
+The parts of the project I worked on were setting up a framework for detecting smooth rotations of the cube (change in position using the built in gyroscope) as well as jolts (change in acceleration). Because I can't stand delivering a final prototype with a breadboard, I also took charge of wiring and organizing electronics--which included 1. figuring out the physical connection between the bluetooth modules and microcontrolled, 2. soldering on header pins for the bluetooth modules and RedBear Duo microcontroller for easy removal and debugging, 3. soldering all the wires together. Electronics took about 10 hours in total. 
+
+(image: cube_1.jpg)
+(image: cube_2.jpg)
+(image: cube_3.jpg)
+
+----
+
+Tags: 

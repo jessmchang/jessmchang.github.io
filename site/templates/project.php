@@ -8,7 +8,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="small-12 medium-6 columns">
+      <div class="small-12 large-6 columns">
         <div class="project-title"><?php echo $page->title()->html() ?></div>
         <ul class="meta cf">
           <li><?php echo $page->year() ?></li>

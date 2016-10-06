@@ -16,12 +16,14 @@ Description:
 
 Text: 
 
-###[Case Study to come]
-
 Bayes Impact is a 501(c)(3) non-profit organization that focuses on solving real world problems with data science. The particular project I worked on with Bayes and <a href="http://www.sutterhealth.org/">Sutter Health</a> was <a href="http://www.bayesimpact.org/focus/health">Bayes Health</a>, a platform linked with traditional Electronic Medical Records that strives to reduce hospital readmission rates, especially among low-income patients.
 
 With the ever increasing hospital readmission rates, along with it being one of the major drivers of high health care cost in the US, and the lack of attention of hospitalization follow-ups, this software would integrate Bayes' risk prediction model into hospitals' EHR procedures.
 (image: bayes_1.png)
+(image: bayes_2.png)
+(image: bayes_3.png)
+(image: bayes_4.png)
+(image: bayes_dashboard.png)
 
 With the initial concepts of this software we were able to receive funding from the largest foundation dedicated to improving healthcare, <a href="http://www.rwjf.org/"> Robert Wood Johnson Foundation</a>.
 
